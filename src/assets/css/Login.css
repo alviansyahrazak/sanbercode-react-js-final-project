@@ -1,0 +1,52 @@
+.login-form-container {
+  width: 25%;
+  margin: 100px auto;
+  background-color: #fff;
+  border: 1px solid #e5eef5;
+  border-radius: 8px;
+  padding: 20px 30px;
+}
+
+.h1-login-form {
+  text-align: center;
+  font-weight: bold;
+  margin: 0px 0 22px 0;
+  font-size: 25px;
+}
+
+.input-login-form {
+  color: #7f98ae;
+  margin-bottom: 15px;
+}
+
+.input-label-login-form {
+  margin-bottom: 7px;
+}
+
+.input-label-span-login-form {
+  color: red;
+}
+
+.text-danger-login-form {
+  color: red;
+}
+
+.login-form-btn {
+  width: 100%;
+  margin: 25px 0;
+  background-color: #52d6ff;
+  border: none;
+  border-radius: 8px;
+  color: #fff;
+}
+
+.login-form-btn:hover {
+  background-color: #41b7db;
+  border: none;
+  color: #fff;
+}
+
+.or-register {
+  text-align: center;
+  margin: 5px 0;
+}

@@ -1,0 +1,33 @@
+.detail-movie-container {
+  margin: 60px auto;
+  background-color: #fff;
+  border: 1px solid #e5eef5;
+  border-radius: 8px;
+  width: 80%;
+}
+
+.detail-movie {
+  display: flex;
+  justify-content: space-around;
+  align-items: stretch;
+  padding: 35px 0px;
+}
+
+.detail-movie-img {
+  width: 400px;
+}
+
+.detail-all-description {
+  width: 50%;
+}
+
+.src-detail-movie-img {
+  height: 550px;
+  object-fit: cover;
+  width: 100%;
+  border-radius: 8px;
+}
+
+.h1-title-detail-movie {
+  font-size: 30px;
+}

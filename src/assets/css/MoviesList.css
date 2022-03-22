@@ -1,0 +1,84 @@
+.movies-list-container {
+  width: 95%;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #fff;
+  border: 1px solid #e5eef5;
+  border-radius: 8px;
+}
+
+.movies-list-serach-filter-container {
+  display: flex;
+}
+
+.h1-header-movies-list {
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.search-form-movies-container {
+  margin: 10px 0px;
+  width: 25%;
+}
+
+.h1-search-movies-list {
+  color: #7f98ae;
+}
+
+.search-form-movies {
+  display: flex;
+}
+
+.search-input-form-movies {
+  margin-right: 5px;
+  width: 100%;
+}
+
+.filter-form-movies-container {
+  margin: 10px 0px;
+  width: 75%;
+}
+
+.h1-filter-movies-list {
+  color: #7f98ae;
+}
+
+.filter-form-movies {
+  display: flex;
+}
+
+.filter-input-form-movies {
+  margin-right: 5px;
+  width: 100%;
+}
+
+.reset-movies-list {
+  margin-top: 39px;
+  margin-left: 5px;
+}
+
+.movies-list-btn {
+  border-radius: 8px;
+}
+
+.movies-list-btn:hover {
+  background-color: #bebebe;
+  border-radius: 8px;
+}
+
+.movies-list-filter-btn {
+  background-color: #713fde;
+  border: none;
+  border-radius: 8px;
+}
+
+.movies-list-filter-btn:hover {
+  background-color: #582fb1;
+  border: none;
+  border-radius: 8px;
+}
+
+.movies-list-reset-btn {
+  border-radius: 8px;
+}

@@ -1,0 +1,72 @@
+.add-games-container {
+  width: 43%;
+  margin: 50px auto;
+  padding: 20px 30px;
+  background-color: #fff;
+  border: 1px solid #e5eef5;
+  border-radius: 8px;
+}
+
+.h1-header-form-add-games {
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.form-add-games-container {
+  padding: 10px;
+  color: #7f98ae;
+}
+
+.label-input-form-add-games {
+  margin: 8px 0;
+}
+
+.input-form-add-games {
+  margin-top: 2px;
+}
+
+.label-input-games-player {
+  display: flex;
+  border: 1px solid #e5eef5;
+  border-radius: 2.5px;
+  margin: 4px 0px 10px 0px;
+}
+
+.label-input-radio-form-add-games {
+  margin: 0px 10px;
+  width: 70%;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+
+.input-radio-form-add-games-container {
+  display: flex;
+  justify-content: left;
+  margin-top: 2px;
+  padding: 5px 0px;
+  align-items: center;
+}
+
+.input-radio-form-add-games {
+  margin-right: 10px;
+}
+
+.radio-games-player {
+  margin-right: 5px;
+}
+
+.add-games-btn {
+  width: 100%;
+  margin: 25px 0;
+  background-color: #52d6ff;
+  border: none;
+  border-radius: 8px;
+  color: #fff;
+}
+.add-games-btn:hover {
+  background-color: #41b7db;
+  border: none;
+  color: #fff;
+}

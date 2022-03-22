@@ -1,0 +1,41 @@
+.add-movies-container {
+  width: 43%;
+  margin: 50px auto;
+  padding: 20px 30px;
+  background-color: #fff;
+  border: 1px solid #e5eef5;
+  border-radius: 8px;
+}
+
+.h1-header-form-add-movies {
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.form-add-movies-container {
+  padding: 10px;
+  color: #7f98ae;
+}
+
+.label-input-form-add-movies {
+  margin: 8px 0;
+}
+
+.input-form-add-movies {
+  margin-top: 2px;
+}
+
+.add-movies-btn {
+  width: 100%;
+  margin: 25px 0;
+  background-color: #52d6ff;
+  border: none;
+  border-radius: 8px;
+  color: #fff;
+}
+.add-movies-btn:hover {
+  background-color: #41b7db;
+  border: none;
+  color: #fff;
+}

@@ -1,0 +1,41 @@
+.header {
+  width: 100%;
+  background-color: #fff;
+  border-bottom: 1px solid #e5eef5;
+}
+
+.logo {
+  width: 139px;
+  height: 28px;
+  margin: 18px 27px 14px 0;
+  float: left;
+}
+
+.menu-nav {
+  display: flex;
+  justify-content: center;
+}
+
+.menu-li-navbar {
+  padding: 0px 15px;
+  font-weight: bold;
+}
+
+.menu-link-navbar:hover {
+  color: rgb(146, 146, 146);
+}
+
+.header-btn {
+  float: right;
+  margin: 16px 0px 16px 0;
+  background-color: #52d6ff;
+  border: none;
+  color: #fff;
+  border-radius: 8px;
+}
+
+.header-btn:hover {
+  background-color: #41b7db;
+  border: none;
+  color: #fff;
+}

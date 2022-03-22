@@ -1,0 +1,84 @@
+.games-list-container {
+  width: 95%;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #fff;
+  border: 1px solid #e5eef5;
+  border-radius: 5px;
+}
+
+.games-list-serach-filter-container {
+  display: flex;
+}
+
+.h1-header-games-list {
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.search-form-games-container {
+  margin: 10px 0px;
+  width: 25%;
+}
+
+.h1-search-games-list {
+  color: #7f98ae;
+}
+
+.search-form-games {
+  display: flex;
+}
+
+.search-input-form-games {
+  margin-right: 5px;
+  width: 100%;
+}
+
+.filter-form-games-container {
+  margin: 10px 0px;
+  width: 75%;
+}
+
+.h1-filter-games-list {
+  color: #7f98ae;
+}
+
+.filter-form-games {
+  display: flex;
+}
+
+.filter-input-form-games {
+  margin-right: 5px;
+  width: 100%;
+}
+
+.reset-games-list {
+  margin-top: 39px;
+  margin-left: 5px;
+}
+
+.games-list-btn {
+  border-radius: 8px;
+}
+
+.games-list-btn:hover {
+  background-color: #bebebe;
+  border-radius: 8px;
+}
+
+.games-list-filter-btn {
+  background-color: #713fde;
+  border: none;
+  border-radius: 8px;
+}
+
+.games-list-filter-btn:hover {
+  background-color: #582fb1;
+  border: none;
+  border-radius: 8px;
+}
+
+.games-list-reset-btn {
+  border-radius: 8px;
+}
