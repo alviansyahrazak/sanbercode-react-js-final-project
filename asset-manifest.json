@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sanbercode-react-js-final-project/static/css/main.413d9cfc.css",
+    "main.js": "/sanbercode-react-js-final-project/static/js/main.155e3ff6.js",
+    "static/js/787.9f5fe0ee.chunk.js": "/sanbercode-react-js-final-project/static/js/787.9f5fe0ee.chunk.js",
+    "static/media/alvixplaylogo.png": "/sanbercode-react-js-final-project/static/media/alvixplaylogo.f4c97fe875c7d89bff15.png",
+    "index.html": "/sanbercode-react-js-final-project/index.html",
+    "main.413d9cfc.css.map": "/sanbercode-react-js-final-project/static/css/main.413d9cfc.css.map",
+    "main.155e3ff6.js.map": "/sanbercode-react-js-final-project/static/js/main.155e3ff6.js.map",
+    "787.9f5fe0ee.chunk.js.map": "/sanbercode-react-js-final-project/static/js/787.9f5fe0ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.413d9cfc.css",
+    "static/js/main.155e3ff6.js"
+  ]
+}
